@@ -1,0 +1,6 @@
+@NetpadPOC_HostAddress = http://localhost:5239
+
+GET {{NetpadPOC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
